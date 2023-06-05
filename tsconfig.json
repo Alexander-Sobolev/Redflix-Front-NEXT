@@ -19,7 +19,7 @@
 			"@/components/*": ["components/*"],
 			"@/ui/*": ["components/ui/*"],
 			"@/screens/*": ["components/screens/*"],
-
+			"@/styles/*": ["styles/*"],
 			"@/shared/*": ["shared/*"],
 			"@/hooks/*": ["hooks/*"],
 			"@/services/*": ["services/*"],

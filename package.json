@@ -9,20 +9,26 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@tailwindcss/aspect-ratio": "^0.4.2",
     "@types/node": "18.16.2",
     "@types/react": "18.2.0",
     "@types/react-dom": "18.2.1",
-    "autoprefixer": "^10.4.14",
     "next": "13.3.1",
-    "postcss": "^8.4.23",
+    "node-sass": "^7.0.3",
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "sass": "^1.62.1",
-    "tailwindcss": "^3.3.2",
+    "scss": "^0.2.4",
     "typescript": "5.0.4"
   },
   "devDependencies": {
+    "@tailwindcss/forms": "^0.5.3",
     "@trivago/prettier-plugin-sort-imports": "^4.1.1",
-    "prettier": "^2.8.8"
+    "autoprefixer": "^10.4.14",
+    "css-loader": "^6.8.1",
+    "postcss": "^8.4.24",
+    "prettier": "^2.8.8",
+    "style-loader": "^3.3.3",
+    "tailwindcss": "^3.3.2"
   }
 }
